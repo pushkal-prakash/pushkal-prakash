@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 • Around 3.5 years of extensive hands on experience of developing and deploying web based 
 applications in Java using Angular 10 version. 
 • Working on web services for the Secure Application Integration in Spring Framework. 
-• Experience in web development using HTML, CSS, JavaScript  
+• Experience in web development using HTML, CSS, JavaScript
 • Hands on experience in frameworks using Spring, Spring Boot and Hibernate. 
 • Strong experience of developing data models using Hibernate POJO’s and configuring Hibernate 
 persistence layer. 
