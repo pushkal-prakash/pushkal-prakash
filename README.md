@@ -26,12 +26,12 @@ Here are some ideas to get you started:
       * Angular
       * NgRx
       * React.js
-      * 
+      * state management with Redux.js
 🌱 Exploring  React.js.
-💬 Ask me about ... 
-    Q.How the Web applications interact with each other using the Java technologies/framework ?
-    Q.Open to discuss Buidling the Spring microservices for enterprise level needs ?
-    Q. Professionally a fullstack developer where  
+> 💬 Ask me about ... 
+   ### Q.How the Web applications interact with each other using the Java technologies/framework ?
+   ### Q.Open to discuss Buidling the Spring microservices for enterprise level needs ?
+   ### Q. Professionally a fullstack developer mostly works with data transformation ?
 
 
 📫 How to reach me: 
